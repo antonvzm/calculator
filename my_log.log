@@ -1,0 +1,502 @@
+31-01-2023 03:40:25 - main - INFO - <module> - Start program
+31-01-2023 03:40:30 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:40:32 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:40:33 - user_interface - INFO - menu - Выход из программы
+31-01-2023 03:41:30 - main - INFO - <module> - Start program
+31-01-2023 03:41:32 - user_interface - INFO - menu - menu exit
+31-01-2023 03:46:39 - main - INFO - <module> - Start program
+31-01-2023 03:46:43 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:46:45 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:46:47 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:47:13 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:47:15 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:47:18 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:47:30 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:47:32 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:47:33 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:48:07 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:48:13 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:48:19 - user_interface - INFO - menu - menu exit
+31-01-2023 03:48:21 - main - INFO - <module> - Start program
+31-01-2023 03:48:22 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:48:29 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 03:48:32 - user_interface - INFO - menu - menu exit
+31-01-2023 03:56:42 - main - INFO - <module> - Start program
+31-01-2023 03:56:48 - main - INFO - <module> - Start program
+31-01-2023 03:58:02 - main - INFO - <module> - Start program
+31-01-2023 03:59:15 - main - INFO - <module> - Start program
+31-01-2023 03:59:46 - main - INFO - <module> - Start program
+31-01-2023 04:00:16 - main - INFO - <module> - Start program
+31-01-2023 04:01:36 - main - INFO - <module> - Start program
+31-01-2023 04:02:36 - main - INFO - <module> - Start program
+31-01-2023 04:04:21 - main - INFO - <module> - Start program
+31-01-2023 04:05:15 - main - INFO - <module> - Start program
+31-01-2023 04:05:25 - user_interface - INFO - menu - menu exit
+31-01-2023 04:10:12 - main - INFO - <module> - Start program
+31-01-2023 04:10:21 - user_interface - INFO - menu - menu exit
+31-01-2023 04:11:48 - main - INFO - <module> - Start program
+31-01-2023 04:11:53 - user_interface - INFO - menu - menu exit
+31-01-2023 04:14:52 - main - INFO - <module> - Start program
+31-01-2023 04:14:57 - main - INFO - <module> - Start program
+31-01-2023 04:15:37 - user_interface - INFO - menu - menu exit
+31-01-2023 04:15:52 - main - INFO - <module> - Start program
+31-01-2023 04:16:26 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 04:16:31 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 04:16:33 - user_interface - INFO - menu - menu exit
+31-01-2023 04:16:46 - main - INFO - <module> - Start program
+31-01-2023 04:16:57 - user_interface - INFO - menu - menu exit
+31-01-2023 04:17:36 - main - INFO - <module> - Start program
+31-01-2023 04:18:28 - main - INFO - <module> - Start program
+31-01-2023 04:29:05 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 04:29:09 - user_interface - INFO - menu - menu exit
+31-01-2023 04:30:20 - main - INFO - <module> - Start program
+31-01-2023 04:30:26 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:29 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:29 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:30 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:30 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:31 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:33 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:33 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:30:41 - main - INFO - <module> - Start program
+31-01-2023 04:30:46 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 04:30:47 - user_interface - INFO - menu - menu exit
+31-01-2023 04:31:00 - main - INFO - <module> - Start program
+31-01-2023 04:31:11 - user_interface - INFO - menu - menu exit
+31-01-2023 04:32:02 - main - INFO - <module> - Start program
+31-01-2023 04:32:13 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:33:23 - main - INFO - <module> - Start program
+31-01-2023 04:33:44 - user_interface - INFO - menu - menu exit
+31-01-2023 04:34:18 - main - INFO - <module> - Start program
+31-01-2023 04:47:56 - main - INFO - <module> - Start program
+31-01-2023 04:48:09 - main - INFO - <module> - Start program
+31-01-2023 04:48:28 - user_interface - INFO - menu - menu exit
+31-01-2023 04:49:48 - main - INFO - <module> - Start program
+31-01-2023 04:49:56 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:50:01 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:50:02 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:50:02 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:50:03 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:52:21 - main - INFO - <module> - Start program
+31-01-2023 04:52:39 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:52:40 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:52:41 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:52:42 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 04:52:46 - user_interface - INFO - menu - menu exit
+31-01-2023 05:01:11 - main - INFO - <module> - Start program
+31-01-2023 05:01:13 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 05:01:14 - mod_calc - INFO - num_complex_num - selected complex numbers
+31-01-2023 05:01:20 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:01:22 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 05:01:24 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:01:28 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 05:01:33 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:01:37 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:01:43 - user_interface - INFO - menu - menu exit
+31-01-2023 05:08:02 - main - INFO - <module> - Start program
+31-01-2023 05:08:03 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:08:13 - user_interface - INFO - menu - menu exit
+31-01-2023 05:16:23 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:16:25 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:16:28 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 05:16:30 - user_interface - INFO - menu - menu exit
+31-01-2023 05:18:55 - main - INFO - <module> - Start program
+31-01-2023 05:18:57 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:19:04 - user_interface - INFO - menu - menu exit
+31-01-2023 05:19:38 - main - INFO - <module> - Start program
+31-01-2023 05:19:40 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:19:41 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:19:47 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:30:53 - main - INFO - <module> - Start program
+31-01-2023 05:30:57 - user_interface - INFO - menu - menu exit
+31-01-2023 05:30:58 - main - INFO - <module> - Start program
+31-01-2023 05:31:01 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:31:03 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:31:05 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:31:06 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:31:09 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:31:12 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:31:22 - mod_calc - INFO - num_degree - chosen exponentiation to the second power
+31-01-2023 05:31:29 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:31 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:31 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:32 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:33 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:33 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:34 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:34 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:35 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:35 - user_interface - INFO - menu - menu exit
+31-01-2023 05:31:36 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:21 - main - INFO - <module> - Start program
+31-01-2023 05:32:22 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:26 - main - INFO - <module> - Start program
+31-01-2023 05:32:27 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:32:29 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:30 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:30 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:31 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:31 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:31 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:32:33 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:32:35 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:32:37 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 05:32:38 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:39 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:40 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:40 - user_interface - INFO - menu - menu exit
+31-01-2023 05:32:40 - user_interface - INFO - menu - menu exit
+31-01-2023 05:33:53 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:33:57 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:34:02 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:05 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:06 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:34:08 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 05:34:10 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:10 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:11 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:12 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:12 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:12 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:23 - main - INFO - <module> - Start program
+31-01-2023 05:34:24 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:33 - main - INFO - <module> - Start program
+31-01-2023 05:34:35 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:34:41 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:42 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:42 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:43 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:43 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:43 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:43 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:44 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:44 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:44 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:44 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:44 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:44 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:45 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:34:47 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 05:34:49 - mod_calc - INFO - num_complex_num - selected complex numbers
+31-01-2023 05:34:51 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:52 - user_interface - INFO - menu - menu exit
+31-01-2023 05:34:59 - main - INFO - <module> - Start program
+31-01-2023 05:35:00 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:20 - main - INFO - <module> - Start program
+31-01-2023 05:35:22 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:35:23 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:35:24 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:35:25 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:35:26 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:35:27 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:35:28 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:35:30 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 05:35:31 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:34 - main - INFO - <module> - Start program
+31-01-2023 05:35:36 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:35:43 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:43 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:44 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:45 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:45 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:46 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:46 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:47 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:47 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:48 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:48 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:49 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:49 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:50 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:50 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:51 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:51 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:52 - user_interface - INFO - menu - menu exit
+31-01-2023 05:35:53 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:04 - main - INFO - <module> - Start program
+31-01-2023 05:40:11 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 05:40:12 - mod_calc - INFO - num_complex_num - selected complex numbers
+31-01-2023 05:40:16 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:40:17 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:40:18 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:40:19 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:40:27 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:40:27 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:40:33 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 05:40:34 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:38 - main - INFO - <module> - Start program
+31-01-2023 05:40:40 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:40:42 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:43 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:44 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:54 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:55 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:56 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:56 - user_interface - INFO - menu - menu exit
+31-01-2023 05:40:57 - user_interface - INFO - menu - menu exit
+31-01-2023 05:41:02 - user_interface - INFO - menu - menu exit
+31-01-2023 05:42:51 - main - INFO - <module> - Start program
+31-01-2023 05:42:52 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:42:56 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:42:58 - user_interface - INFO - menu - menu exit
+31-01-2023 05:43:04 - user_interface - INFO - menu - menu exit
+31-01-2023 05:44:36 - main - INFO - <module> - Start program
+31-01-2023 05:44:38 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:44:40 - user_interface - INFO - menu - menu exit
+31-01-2023 05:45:30 - main - INFO - <module> - Start program
+31-01-2023 05:45:32 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:45:37 - user_interface - INFO - menu - menu exit
+31-01-2023 05:45:37 - excep - ERROR - opertion_vertif - error: Input Error operation
+31-01-2023 05:46:23 - main - INFO - <module> - Start program
+31-01-2023 05:46:25 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:46:27 - user_interface - INFO - menu - menu exit
+31-01-2023 05:46:49 - main - INFO - <module> - Start program
+31-01-2023 05:46:51 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:46:57 - user_interface - INFO - menu - menu exit
+31-01-2023 05:47:22 - main - INFO - <module> - Start program
+31-01-2023 05:47:24 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:47:27 - user_interface - INFO - menu - menu exit
+31-01-2023 05:51:14 - main - INFO - <module> - Start program
+31-01-2023 05:51:16 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:51:21 - user_interface - INFO - menu - menu exit
+31-01-2023 05:58:04 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 05:58:06 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:58:08 - user_interface - INFO - menu - menu exit
+31-01-2023 05:58:13 - user_interface - INFO - menu - menu exit
+31-01-2023 05:59:16 - main - INFO - <module> - Start program
+31-01-2023 05:59:17 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:59:19 - user_interface - INFO - menu - menu exit
+31-01-2023 05:59:22 - user_interface - INFO - menu - menu exit
+31-01-2023 05:59:33 - main - INFO - <module> - Start program
+31-01-2023 05:59:34 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 05:59:36 - user_interface - INFO - menu - menu exit
+31-01-2023 05:59:38 - user_interface - INFO - menu - menu exit
+31-01-2023 06:05:06 - main - INFO - <module> - Start program
+31-01-2023 06:05:08 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:05:11 - user_interface - INFO - menu - menu exit
+31-01-2023 06:05:12 - user_interface - INFO - menu - menu exit
+31-01-2023 06:05:23 - main - INFO - <module> - Start program
+31-01-2023 06:05:24 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:08 - main - INFO - <module> - Start program
+31-01-2023 06:06:09 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:34 - main - INFO - <module> - Start program
+31-01-2023 06:06:37 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:39 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 06:06:40 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:42 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 06:06:44 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:46 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 06:06:47 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:51 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:06:53 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:06:59 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:07:56 - main - INFO - <module> - Start program
+31-01-2023 06:07:59 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:08:09 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:08:14 - user_interface - INFO - menu - menu exit
+31-01-2023 06:09:06 - main - INFO - <module> - Start program
+31-01-2023 06:09:07 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:09:11 - user_interface - INFO - menu - menu exit
+31-01-2023 06:09:34 - main - INFO - <module> - Start program
+31-01-2023 06:09:35 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:09:39 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:09:40 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:09:41 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:09:41 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:09:42 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:09:42 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:09:44 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:09:46 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:09:48 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 06:09:49 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:09:52 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 06:09:54 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:09:57 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 06:09:58 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:10:03 - mod_calc - INFO - num_degree - chosen exponentiation to the second power
+31-01-2023 06:10:18 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:10:22 - user_interface - INFO - menu - menu exit
+31-01-2023 06:11:13 - main - INFO - <module> - Start program
+31-01-2023 06:11:14 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:11:19 - user_interface - INFO - menu - menu exit
+31-01-2023 06:11:38 - main - INFO - <module> - Start program
+31-01-2023 06:11:40 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:11:45 - user_interface - INFO - menu - menu exit
+31-01-2023 06:11:55 - main - INFO - <module> - Start program
+31-01-2023 06:11:56 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:11:59 - user_interface - INFO - menu - menu exit
+31-01-2023 06:13:07 - main - INFO - <module> - Start program
+31-01-2023 06:13:09 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:13:36 - main - INFO - <module> - Start program
+31-01-2023 06:13:38 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:13:58 - main - INFO - <module> - Start program
+31-01-2023 06:14:00 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:04 - user_interface - INFO - menu - menu exit
+31-01-2023 06:14:07 - main - INFO - <module> - Start program
+31-01-2023 06:14:09 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:13 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 06:14:16 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 06:14:18 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:21 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:14:26 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 06:14:30 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:33 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 06:14:34 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:38 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 06:14:39 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:43 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:14:55 - main - INFO - <module> - Start program
+31-01-2023 06:14:56 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:14:59 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:15:00 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:15:01 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:15:02 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:15:03 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:15:05 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:15:09 - mod_calc - INFO - num_degree - chosen exponentiation to the second power
+31-01-2023 06:15:12 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:15:18 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 06:15:19 - mod_calc - INFO - num_complex_num - selected complex numbers
+31-01-2023 06:15:21 - user_interface - INFO - menu - menu exit
+31-01-2023 06:18:13 - main - INFO - <module> - Start program
+31-01-2023 06:18:14 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:18:21 - user_interface - INFO - menu - menu exit
+31-01-2023 06:28:22 - main - INFO - <module> - Start program
+31-01-2023 06:28:24 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:28:26 - user_interface - INFO - menu - menu exit
+31-01-2023 06:28:27 - user_interface - INFO - menu - menu exit
+31-01-2023 06:30:39 - main - INFO - <module> - Start program
+31-01-2023 06:30:40 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:30:41 - excep - INFO - operation_vert - return to job selection
+31-01-2023 06:30:45 - user_interface - INFO - menu - menu exit
+31-01-2023 06:30:47 - user_interface - INFO - menu - menu exit
+31-01-2023 06:31:15 - main - INFO - <module> - Start program
+31-01-2023 06:31:17 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:31:17 - excep - INFO - operation_vert - return to job selection
+31-01-2023 06:31:18 - user_interface - INFO - menu - menu exit
+31-01-2023 06:31:19 - user_interface - INFO - menu - menu exit
+31-01-2023 06:36:12 - main - INFO - <module> - Start program
+31-01-2023 06:36:14 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:38:24 - main - INFO - <module> - Start program
+31-01-2023 06:38:26 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:38:27 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 06:38:30 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:38:33 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 06:38:34 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:38:37 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 06:38:38 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:38:41 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:38:43 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:38:45 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:40:51 - main - INFO - <module> - Start program
+31-01-2023 06:40:53 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:40:55 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:40:56 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:40:57 - excep - ERROR - div_zero - error: wrong division by 0
+31-01-2023 06:40:58 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:49:11 - main - INFO - <module> - Start program
+31-01-2023 06:49:13 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:49:15 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:49:16 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:49:17 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:49:17 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:49:17 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:50:54 - main - INFO - <module> - Start program
+31-01-2023 06:50:55 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:50:58 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:50:59 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:50:59 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:57:52 - main - INFO - <module> - Start program
+31-01-2023 06:57:54 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:57:58 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:57:59 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:57:59 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 06:58:00 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:58:15 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 06:58:18 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:58:21 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 06:58:22 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:58:23 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 06:58:25 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:58:28 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 06:58:29 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:58:32 - mod_calc - INFO - num_div - division selected
+31-01-2023 06:58:33 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:58:38 - mod_calc - INFO - num_degree - chosen exponentiation to the second power
+31-01-2023 06:58:39 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:58:40 - excep - INFO - operation_vert - return to job selection
+31-01-2023 06:58:42 - user_interface - INFO - menu - menu exit
+31-01-2023 06:58:49 - user_interface - INFO - menu - menu exit
+31-01-2023 06:59:06 - main - INFO - <module> - Start program
+31-01-2023 06:59:07 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:59:08 - excep - INFO - operation_vert - return to job selection
+31-01-2023 06:59:09 - user_interface - INFO - menu - menu exit
+31-01-2023 06:59:12 - main - INFO - <module> - Start program
+31-01-2023 06:59:13 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:59:15 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 06:59:25 - main - INFO - <module> - Start program
+31-01-2023 06:59:27 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 06:59:31 - excep - INFO - operation_vert - return to job selection
+31-01-2023 06:59:32 - user_interface - INFO - menu - menu exit
+31-01-2023 07:00:21 - main - INFO - <module> - Start program
+31-01-2023 07:00:23 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:24 - excep - INFO - operation_vert - return to job selection
+31-01-2023 07:00:26 - user_interface - INFO - menu - menu exit
+31-01-2023 07:00:31 - main - INFO - <module> - Start program
+31-01-2023 07:00:32 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:33 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 07:00:35 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:38 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 07:00:39 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:41 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 07:00:42 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:45 - mod_calc - INFO - num_div - division selected
+31-01-2023 07:00:47 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:51 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 07:00:54 - mod_calc - INFO - num_div - division selected
+31-01-2023 07:00:56 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:00:59 - mod_calc - INFO - num_degree - chosen exponentiation to the second power
+31-01-2023 07:01:00 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:01:01 - excep - INFO - operation_vert - return to job selection
+31-01-2023 07:01:02 - user_interface - INFO - menu - menu exit
+31-01-2023 07:01:04 - main - INFO - <module> - Start program
+31-01-2023 07:01:06 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 07:01:23 - main - INFO - <module> - Start program
+31-01-2023 07:01:24 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 07:03:03 - main - INFO - <module> - Start program
+31-01-2023 07:03:04 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 07:04:52 - main - INFO - <module> - Start program
+31-01-2023 07:04:54 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 07:05:39 - main - INFO - <module> - Start program
+31-01-2023 07:05:40 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 07:05:41 - mod_calc - INFO - num_complex_num - selected complex numbers
+31-01-2023 07:05:44 - user_interface - INFO - menu - menu exit
+31-01-2023 07:07:11 - main - INFO - <module> - Start program
+31-01-2023 07:07:14 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:07:17 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 07:07:42 - user_interface - ERROR - menu - error: Input Error menu
+31-01-2023 07:07:44 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:07:46 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 07:07:52 - main - INFO - <module> - Start program
+31-01-2023 07:07:53 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:07:55 - mod_calc - INFO - num_sum - addition selected
+31-01-2023 07:07:57 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:00 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 07:08:02 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:06 - mod_calc - INFO - num_diff - subtraction selected
+31-01-2023 07:08:07 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:09 - mod_calc - INFO - num_mult - multiplication selected
+31-01-2023 07:08:10 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:14 - mod_calc - INFO - num_div - division selected
+31-01-2023 07:08:15 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:17 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 07:08:18 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 07:08:18 - excep - ERROR - div_zero - error: division by zero
+31-01-2023 07:08:19 - mod_calc - INFO - num_div - division selected
+31-01-2023 07:08:21 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:23 - mod_calc - INFO - num_degree - chosen exponentiation to the second power
+31-01-2023 07:08:26 - user_interface - INFO - menu_calc - selected operations with rational numbers
+31-01-2023 07:08:27 - excep - INFO - operation_vert - return to job selection
+31-01-2023 07:08:28 - user_interface - INFO - menu_calc - selected operations with complex numbers
+31-01-2023 07:08:29 - mod_calc - INFO - num_complex_num - selected complex numbers
+31-01-2023 07:08:31 - user_interface - INFO - menu - menu exit
